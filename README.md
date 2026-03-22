@@ -7,7 +7,7 @@
 </div>
 
 <p align="right">
-Repositório com a resolução de TODOS os problemas da <b>Olimpíada Brasileira de Informática (OBI)</b> utilizando <b>Python</b> e <b>C++</b>.
+  <i>Repositório com a resolução de TODOS os problemas da <b>Olimpíada Brasileira de Informática (OBI)</b> utilizando <b>Python</b> e <b>C++</b>.</i>
 </p>
 
 As soluções estão organizadas por **ano**, **nível** e **fase**, com foco em estudo, prática e preparação para competições de programação.
