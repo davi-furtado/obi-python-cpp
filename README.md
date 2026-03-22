@@ -468,4 +468,4 @@ Contribuições são bem-vindas via **pull request** ou **issue**.
 
 # Licença
 
-Este projeto está sob a licença **MIT**.
+Este projeto está sob a licença [MIT](/LICENSE).
